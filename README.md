@@ -26,16 +26,16 @@ This is the place where I opensource stuff and break things :rofl:
 ### About Me
 I have around nine years experience in software development. 
 
-- Languages: JavaScript, TypeScript, Python, Rust, PHP, Go
-- Frameworks: Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum), Flask
-- Frontend: React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
-- Database: MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
-- APIs: REST, GraphQL
-- Unit Testing: Jest, Mocha, Vitest, Rust's testing framework
-- Automation: Protractor, Cucumber, Selenium, JMeter, TestRail
-- CI/CD: Jenkins, GitHub Actions, Octopus
-- DevOps: GitHub, SVN, AWS, Docker, Kibana
-- Architecture: Monolith, Microservice, Serverless
-- SDLC: Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
-- Others: RabbitMQ, Excel, Google Analytics & SEO
-- Interests: Philosophy, Writing, Traveling, Teaching
+- **Languages:** JavaScript, TypeScript, Python, Rust, PHP, Go
+- **Frameworks:** Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum), Flask
+- **Frontend:** React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
+- **Database:** MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
+- **APIs:** REST, GraphQL
+- **Unit Testing:** Jest, Mocha, Vitest, Rust's testing framework
+- **Automation:** Protractor, Cucumber, Selenium, JMeter, TestRail
+- **CI/CD:** Jenkins, GitHub Actions, Octopus
+- **DevOps:** GitHub, SVN, AWS, Docker, Kibana
+- **Architecture:** Monolith, Microservice, Serverless
+- **SDLC:** Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
+- **Others:** RabbitMQ, Excel, Google Analytics & SEO
+- **Interests:** Philosophy, Writing, Traveling, Teaching
