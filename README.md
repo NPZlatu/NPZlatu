@@ -38,4 +38,4 @@ I have around nine years experience in software development.
 - **Architecture:** Monolith, Microservice, Serverless
 - **SDLC:** Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
 - **Others:** RabbitMQ, Excel, Google Analytics & SEO
-- **Interests:** Philosophy, Writing, Traveling, Teaching
+- **Interests:** Philosophy, Writing, Traveling, Teaching, Soccer
