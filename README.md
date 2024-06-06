@@ -23,6 +23,44 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://stackoverflow.com/users/4510870/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4510870" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajpaudel" height="30" width="40" /></a>
 
-### ✨&nbsp; About Me
+## About Me
+With nine years of experience in software development, I excel in designing and delivering top-tier products. My expertise spans a wide range of programming languages, backend and frontend frameworks, databases, and API development. I am adept in ensuring software quality through rigorous testing and implementing efficient CI/CD pipelines and DevOps practices. Whether as a Solution Architect, Senior Full-Stack Software Engineer, Senior Backend Engineer, or Automation Engineer, I bring finesse and efficiency to every role. With a deep understanding of software architecture and SDLC methodologies, I am committed to driving success through innovation and collaboration in any project or team setting.
 
-I am a Software Engineer with 9+ years of experience in developing enterprise applications and open-source software.
+### Languages
+- JavaScript, TypeScript, Python, Rust, PHP, Go
+
+### Frameworks
+- Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum), Flask
+
+### Frontend
+- React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
+
+### Database
+- MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
+
+### APIs
+- REST, GraphQL
+
+### Unit Testing
+- Jest, Mocha, Vitest, Entity Framework, Rust's testing framework
+
+### Automation
+- Protractor, Cucumber, Selenium, JMeter, TestRail
+
+### CI/CD
+- Jenkins, GitHub Actions, Octopus
+
+### DevOps
+- GitHub, SVN, AWS, Docker, Kibana
+
+### Architecture
+- Monolith, Microservice, Serverless
+
+### SDLC
+- Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
+
+### Others
+- RabbitMQ, Excel, Google Analytics & SEO
+
+### Interests
+- Philosophy, Writing, Traveling, Teaching
