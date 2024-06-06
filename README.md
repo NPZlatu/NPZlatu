@@ -26,8 +26,8 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 ### About Me
 I have around nine years experience in software development. 
 
-- **Languages:** JavaScript, TypeScript, Python, Rust, PHP, Go
-- **Frameworks:** Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum), Flask
+- **Languages:** JavaScript, TypeScript, Rust, PHP, Go
+- **Frameworks:** Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum)
 - **Frontend:** React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
 - **Database:** MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
 - **APIs:** REST, GraphQL
