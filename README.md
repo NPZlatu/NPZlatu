@@ -4,7 +4,7 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Rust
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Next.Js/React/Node.js
-- 👨‍💻 &nbsp;Know more me at [nirajpaudel.me](https://www.nirajpaudel.me)
+- 👨‍💻 &nbsp;Know more about me at [nirajpaudel.me](https://www.nirajpaudel.me)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and :soccer:
 
 📕 &nbsp;**Latest Blog Posts**
