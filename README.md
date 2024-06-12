@@ -9,7 +9,7 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT (JSON Web Token?](https://www.linkedin.com/posts/itsmenirajpaudel_backenddevelopment-jwt-cryptographicprinciples-activity-7206252151155675136-dGYs?utm_source=share&utm_medium=member_desktop)
+- [Understanding JWT (JSON Web Token)](https://www.linkedin.com/posts/itsmenirajpaudel_backenddevelopment-jwt-cryptographicprinciples-activity-7206252151155675136-dGYs?utm_source=share&utm_medium=member_desktop)
 - [Why and How to Create a Portfolio Website Using Svelte?](https://medium.com/@nirajpaudel/why-and-how-to-create-a-portfolio-website-using-svelte-465daff4ebf3)
 - [Understanding Rust’s Memory Management: Ownership, Borrowing, and Lifetimes](https://www.linkedin.com/pulse/understanding-rusts-memory-management-ownership-borrowing-paudel-izwhc/?trackingId=0ZfPiPOlTeWB6TfVml2Yzw%3D%3D)
 - [Concurrency Models in Node.js: Single-Threaded, Multi-Threaded, and Multi-Process Configurations](https://medium.com/@nirajpaudel/concurrency-models-in-node-js-single-threaded-multi-threaded-and-multi-process-configurations-0080488a1c0b)
