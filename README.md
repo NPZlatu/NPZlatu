@@ -9,6 +9,7 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Article series in gRPC](https://www.linkedin.com/posts/itsmenirajpaudel_backend-grpc-activity-7214582175927525376-dBf7?utm_source=share&utm_medium=member_desktop)
 - [Optimizing JWT Validation in Micro-Services using API Gateway](https://www.linkedin.com/posts/itsmenirajpaudel_jwt-apiabrgateway-microservices-activity-7210939369182887936-V6J_?utm_source=share&utm_medium=member_desktop)
 - [Understanding JWT (JSON Web Token)](https://www.linkedin.com/posts/itsmenirajpaudel_backenddevelopment-jwt-cryptographicprinciples-activity-7206252151155675136-dGYs?utm_source=share&utm_medium=member_desktop)
 - [Why and How to Create a Portfolio Website Using Svelte?](https://medium.com/@nirajpaudel/why-and-how-to-create-a-portfolio-website-using-svelte-465daff4ebf3)
