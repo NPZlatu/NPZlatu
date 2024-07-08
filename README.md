@@ -21,10 +21,11 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://x.com/NirajPaudel62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirajpaudel" height="30" width="40" /></a>
-<a href="https://x.com/NirajPaudel62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirajpaudel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itsmenirajpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirajpaudel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4510870/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4510870" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajpaudel" height="30" width="40" /></a>
+<a href="https://x.com/NirajPaudel62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirajpaudel" height="30" width="40" /></a>
+
 
 ### About Me
 I have around nine years experience in software development. 
