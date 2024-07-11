@@ -9,7 +9,7 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive on GRPC](https://www.linkedin.com/posts/itsmenirajpaudel_backend-grpc-activity-7214582175927525376-dBf7?utm_source=share&utm_medium=member_desktop)
+- [Deep Dive on gRPC](https://www.linkedin.com/posts/itsmenirajpaudel_backend-grpc-activity-7214582175927525376-dBf7?utm_source=share&utm_medium=member_desktop)
 - [Optimizing JWT Validation in Micro-Services using API Gateway](https://www.linkedin.com/posts/itsmenirajpaudel_jwt-apiabrgateway-microservices-activity-7210939369182887936-V6J_?utm_source=share&utm_medium=member_desktop)
 - [Understanding JWT (JSON Web Token)](https://www.linkedin.com/posts/itsmenirajpaudel_backenddevelopment-jwt-cryptographicprinciples-activity-7206252151155675136-dGYs?utm_source=share&utm_medium=member_desktop)
 - [Why and How to Create a Portfolio Website Using Svelte?](https://medium.com/@nirajpaudel/why-and-how-to-create-a-portfolio-website-using-svelte-465daff4ebf3)
@@ -23,7 +23,7 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 <p align="left">
 <a href="https://www.linkedin.com/in/itsmenirajpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirajpaudel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4510870/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4510870" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajpaudel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/np_zlatu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajpaudel" height="30" width="40" /></a>
 <a href="https://x.com/NirajPaudel62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirajpaudel" height="30" width="40" /></a>
 
 
