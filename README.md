@@ -30,16 +30,16 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 
 ### About Me
 I have more than nine years experience in software development. 
-- **Languages:** JavaScript, TypeScript, Rust, PHP, GO
-- **Frameworks:** Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum)
+- **Languages:** Typescript, Javascript, PHP, Rust, C#, GO
+- **Frameworks:** Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum), DotNet Core
 - **Frontend:** React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
 - **Database:** MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
-- **APIs:** REST, GraphQL
+- **APIs:** REST, GraphQL, gRPC
 - **Unit Testing:** Jest, Mocha, Vitest, Rust's testing framework
 - **Automation:** Protractor, Cucumber, Selenium, JMeter, TestRail
 - **CI/CD:** Jenkins, GitHub Actions, Octopus
-- **DevOps:** GitHub, SVN, AWS, Docker, Kibana
-- **Architecture:** Monolith, Microservice, Serverless
+- **DevOps:** GitHub, SVN, AWS, Docker, Kibana, Terraform
+- **Architecture:** Monolith, Microservice (Orchestration, Choreography), Serverless 
 - **SDLC:** Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
-- **Others:** RabbitMQ, Excel, Google Analytics & SEO
-- **Interests:** Philosophy, Writing, Traveling, Teaching, Soccer
+- **Others:** Docker, Kubernetes, RabbitMQ, Excel, Google Analytics & SEO
+- **Interests:** Football, Philosophy, Writing, Teaching
