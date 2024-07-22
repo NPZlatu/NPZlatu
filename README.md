@@ -9,6 +9,7 @@ I am Niraj Paudel and my wife called me Zlatu :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Protocol Buffers: Understanding Concepts with Examples](https://www.linkedin.com/pulse/prototype-buffers-understanding-concepts-niraj-paudel-g65mc/?trackingId=nPYIcaR9Tau08S6ckuiniw%3D%3D)
 - [Deep Dive on gRPC](https://www.linkedin.com/posts/itsmenirajpaudel_backend-grpc-activity-7214582175927525376-dBf7?utm_source=share&utm_medium=member_desktop)
 - [Optimizing JWT Validation in Micro-Services using API Gateway](https://www.linkedin.com/posts/itsmenirajpaudel_jwt-apiabrgateway-microservices-activity-7210939369182887936-V6J_?utm_source=share&utm_medium=member_desktop)
 - [Understanding JWT (JSON Web Token)](https://www.linkedin.com/posts/itsmenirajpaudel_backenddevelopment-jwt-cryptographicprinciples-activity-7206252151155675136-dGYs?utm_source=share&utm_medium=member_desktop)
