@@ -35,9 +35,10 @@ I have more than nine years experience in software development.
 - **Frontend:** React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
 - **Database:** MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
 - **APIs:** REST, GraphQL, gRPC
+- **Clouds:** Azure (App Service, VM, VMSS, SQL Servers), AWS (Elastic Beanstalk, EC2, S3, Amplify, SES)
 - **Unit Testing:** Jest, Mocha, Vitest, Rust's testing framework
 - **Automation:** Protractor, Cucumber, Selenium, JMeter, TestRail
-- **CI/CD:** Jenkins, GitHub Actions, Octopus
+- **CI/CD:** Jenkins, GitHub Actions, Octopus, Vercel
 - **DevOps:** GitHub, SVN, AWS, Docker, Kibana, Terraform
 - **Architecture:** Monolith, Microservice (Orchestration, Choreography), Serverless 
 - **SDLC:** Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
