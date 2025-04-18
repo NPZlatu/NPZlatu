@@ -1,8 +1,8 @@
 ### Hi there <a href="https://nirajpaudel.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I am Niraj Paudel.
 
-- 🔭 &nbsp;I’m currently pursuing Master of Information Technology at Auckland Institute of Studies :wink:
-- 🌱 &nbsp;I’m currently learning Rust, gRPC, System Design Concepts, Data Structure and Algorithms.
+- 🔭 &nbsp;I’m currently pursuing Master of Information Technology at **Auckland Institute of Studies**.
+- 🌱 &nbsp;I’m currently learning Rust, gRPC, System Design Concepts, Data Structure and Algorithms.  :wink:
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Next.Js/React/Node.js
 - 👨‍💻 &nbsp;Know more about me at [nirajpaudel.me](https://nirajpaudel.me)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and :soccer:
