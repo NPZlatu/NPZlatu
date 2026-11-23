@@ -1,46 +1,35 @@
-### Hi there <a href="https://nirajpaudel.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am Niraj Paudel.
+## Niraj Paudel
 
-- 🔭 &nbsp;I’m currently pursuing Master of Information Technology at **Auckland Institute of Studies**.
-- 🌱 &nbsp;I’m currently learning Rust, gRPC, System Design Concepts, Data Structure and Algorithms.  :wink:
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Next.Js/React/Node.js
-- 👨‍💻 &nbsp;Know more about me at [nirajpaudel.com](https://nirajpaudel.com)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and :soccer:
+**SDET and Test Automation Engineer · Software engineering background · Auckland, New Zealand**
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Protocol Buffers: Understanding Concepts with Examples](https://www.linkedin.com/pulse/prototype-buffers-understanding-concepts-niraj-paudel-g65mc/?trackingId=nPYIcaR9Tau08S6ckuiniw%3D%3D)
-- [Deep Dive on gRPC](https://www.linkedin.com/posts/itsmenirajpaudel_backend-grpc-activity-7214582175927525376-dBf7?utm_source=share&utm_medium=member_desktop)
-- [Optimizing JWT Validation in Micro-Services using API Gateway](https://www.linkedin.com/posts/itsmenirajpaudel_jwt-apiabrgateway-microservices-activity-7210939369182887936-V6J_?utm_source=share&utm_medium=member_desktop)
-- [Understanding JWT (JSON Web Token)](https://www.linkedin.com/posts/itsmenirajpaudel_backenddevelopment-jwt-cryptographicprinciples-activity-7206252151155675136-dGYs?utm_source=share&utm_medium=member_desktop)
-- [Why and How to Create a Portfolio Website Using Svelte?](https://medium.com/@nirajpaudel/why-and-how-to-create-a-portfolio-website-using-svelte-465daff4ebf3)
-- [Understanding Rust’s Memory Management: Ownership, Borrowing, and Lifetimes](https://www.linkedin.com/pulse/understanding-rusts-memory-management-ownership-borrowing-paudel-izwhc/?trackingId=0ZfPiPOlTeWB6TfVml2Yzw%3D%3D)
-- [Concurrency Models in Node.js: Single-Threaded, Multi-Threaded, and Multi-Process Configurations](https://medium.com/@nirajpaudel/concurrency-models-in-node-js-single-threaded-multi-threaded-and-multi-process-configurations-0080488a1c0b)
-- [How JavaScript Directs the Flow of Electricity ?](https://www.linkedin.com/pulse/how-javascript-directs-flow-electricity-niraj-paudel-apfrc/)
-- [Functional Programming for Beginners: Understanding the Core Principles](https://medium.com/@nirajpaudel/functional-programming-for-beginners-understanding-the-core-principles-fa8df00966f7)
-<!-- BLOG-POST-LIST:END -->
+Software engineer with ten years of building products, two of them as a full-time SDET on Monotype's MyFonts.com. Most recently I build and test AI data pipelines end to end. As AI writes more of the code, the harder and more valuable work is proving that what it built is correct. That is where I am taking my career.
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/itsmenirajpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirajpaudel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4510870/nirazlatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4510870" height="30" width="40" /></a>
-<a href="https://www.instagram.com/np_zlatu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajpaudel" height="30" width="40" /></a>
-<a href="https://x.com/NirajPaudel62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirajpaudel" height="30" width="40" /></a>
+- **Focus:** test automation and quality engineering
+- **Site and CV:** [nirajpaudel.com](https://nirajpaudel.com)
+- **LinkedIn:** [in/itsmenirajpaudel](https://www.linkedin.com/in/itsmenirajpaudel/)
 
+### What I work with
 
-### About Me
-I have more than nine years experience in software development. 
-- **Languages:** Typescript, Javascript, PHP, Rust, C#, GO
-- **Frameworks:** Node.js (Express), PHP (Yii, CakePHP, Laravel), Rust (Axum), DotNet Core
-- **Frontend:** React.js, Next.js, Vue.js, Svelte.js, Angular.js, Nuxt.js, jQuery
-- **Database:** MySQL, PostgreSQL, MongoDB, InfluxDB, ElasticSearch, Redis
-- **APIs:** REST, GraphQL, gRPC
-- **Clouds:** Azure (App Service, VM, VMSS, SQL Servers), AWS (Elastic Beanstalk, EC2, S3, Amplify, SES)
-- **Unit Testing:** Jest, Mocha, Vitest, Rust's testing framework
-- **Automation:** Protractor, Cucumber, Selenium, JMeter, TestRail
-- **CI/CD:** Jenkins, GitHub Actions, Octopus, Vercel
-- **DevOps:** GitHub, SVN, AWS, Docker, Kibana, Terraform
-- **Architecture:** Monolith, Microservice (Orchestration, Choreography), Serverless 
-- **SDLC:** Jira, Agile, Scrum, Sportify, Kanban, Mob Programming, TDD, Peer Programming
-- **Others:** Docker, Kubernetes, RabbitMQ, Excel, Google Analytics & SEO
-- **Interests:** Football, Philosophy, Writing, Teaching
+| Area | Tools |
+|---|---|
+| Test automation | Playwright, Puppeteer, Selenium, Protractor, Cucumber (BDD), UI and REST API tests, Postman |
+| Testing | Functional, regression, exploratory and end to end testing, test planning and strategy |
+| Test frameworks | Vitest, Jest, Mocha, JMeter (performance testing), TestRail |
+| Testing AI systems | LLM evaluation with RAGAS, RAG data validation, MCP tool testing across AI clients |
+| CI/CD and infrastructure | GitHub Actions, Jenkins, Docker, Terraform |
+| Languages and runtime | TypeScript, JavaScript, Node.js, Python, C#, SQL |
+| Cloud and data | AWS (Lambda, SQS, S3, ECS), PostgreSQL, Qdrant vector database, Datadog |
+
+### Selected work
+
+- **[RAGAS-LLM-Judge-Reliability-Study](https://github.com/NPZlatu/RAGAS-LLM-Judge-Reliability-Study)**: my Master's research. I tested an LLM evaluation tool itself: 3 judge models, 4 dataset variants, 1,800 scores. Changing the judge moves a score by about 0.1, the judges still rank systems in the same order, and one metric (Answer Relevancy) cannot detect hallucinated answers.
+- **[dual-mode-recognition-slack-bot](https://github.com/NPZlatu/dual-mode-recognition-slack-bot)**: a Slack bot driven by GitHub and Trello webhooks, built in TypeScript.
+- **[MyPortfolio](https://github.com/NPZlatu/MyPortfolio)**: the SvelteKit source of nirajpaudel.com.
+
+### Background
+
+Software Engineer (Data) at Nylon, an AI research tool for tax and law. Before that: SDET, senior engineer and team lead on Monotype's MyFonts.com, and CTO of a start-up in Kathmandu. Master of Information Technology, Auckland Institute of Studies.
+
+### Writing
+
+Technical articles and essays: [nirajpaudel.com/writing](https://nirajpaudel.com/writing)
