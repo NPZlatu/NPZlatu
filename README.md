@@ -2,7 +2,7 @@
 
 **SDET and Test Automation Engineer · Software engineering background · Auckland, New Zealand**
 
-Software engineer with ten years of building products, two of them as a full-time SDET on Monotype's MyFonts.com. Most recently I build and test AI data pipelines end to end. As AI writes more of the code, the harder and more valuable work is proving that what it built is correct. That is where I am taking my career.
+Software engineer with ten years of building products, two of them as a full-time SDET on Monotype's MyFonts.com. Most recently I build and test the data pipeline behind an AI product. As AI writes more of the code, the harder and more valuable work is proving that what it built is correct. That is where I am taking my career.
 
 - **Focus:** test automation and quality engineering
 - **Site and CV:** [nirajpaudel.com](https://nirajpaudel.com)
@@ -21,9 +21,9 @@ Software engineer with ten years of building products, two of them as a full-tim
 | Languages and runtime | TypeScript, JavaScript, Node.js, Python, C#, SQL |
 | Cloud and data | AWS (Lambda, SQS, S3, ECS), PostgreSQL, Qdrant vector database, Datadog |
 
-### How I work with AI
+### Working in an AI-native team
 
-I work in an AI-native workflow every day. I plan the work and write the test strategy, Claude Code agents write the code and tests (often several in parallel, connected to databases, logs and tickets through MCP servers), a separate review agent and CodeRabbit challenge each change, and I verify the result end to end on staging before it ships. Nothing ships on an agent's word.
+My team builds in an AI-native workflow every day. The engineer plans the work and sets the test strategy, Claude Code agents write the code and tests (often several in parallel, connected to databases, logs and tickets through MCP servers), a separate review agent and CodeRabbit challenge each change, and the engineer verifies the result end to end on staging before it ships. Nothing ships on an agent's word.
 
 ### Selected work
 
