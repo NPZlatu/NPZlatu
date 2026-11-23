@@ -16,9 +16,14 @@ Software engineer with ten years of building products, two of them as a full-tim
 | Testing | Functional, regression, exploratory and end to end testing, test planning and strategy |
 | Test frameworks | Vitest, Jest, Mocha, JMeter (performance testing), TestRail |
 | Testing AI systems | LLM evaluation with RAGAS, RAG data validation, MCP tool testing across AI clients |
+| AI-native workflow | Claude Code and parallel AI agents, MCP servers, agent and CodeRabbit code review |
 | CI/CD and infrastructure | GitHub Actions, Jenkins, Docker, Terraform |
 | Languages and runtime | TypeScript, JavaScript, Node.js, Python, C#, SQL |
 | Cloud and data | AWS (Lambda, SQS, S3, ECS), PostgreSQL, Qdrant vector database, Datadog |
+
+### How I work with AI
+
+I work in an AI-native workflow every day. I plan the work and write the test strategy, Claude Code agents write the code and tests (often several in parallel, connected to databases, logs and tickets through MCP servers), a separate review agent and CodeRabbit challenge each change, and I verify the result end to end on staging before it ships. Nothing ships on an agent's word.
 
 ### Selected work
 
